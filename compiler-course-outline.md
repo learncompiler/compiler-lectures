@@ -1,5 +1,6 @@
 # 教学日历（教学大纲）（32学时）
-Ver1
+- [Ver1](https://github.com/learncompiler/compiler-lectures/blob/edc78f650320a18d3d479b4ee87bc4c74defe04e/compiler-course-outline.md)
+- Ver2
 
 ## 课程简介 
 - 课程名称  编译原理 Principles and Practice of Compiler Construction
@@ -19,7 +20,7 @@ Ver1
 
 ### 先修课程
 - 程序设计，数据结构，形式语言与自动机
-- 掌握一种编程语言Java(课程实验)
+- 至少掌握一种课程实验用的编程语言（C/C++, Java, Scala, Rust, Go）
 
 ### CC200X相关知识领域
 CE—ALG/CS—AL，CE—CAO/CS—AR，CE—OPS/CS—OS，CE—PRF/CS—PF，CE—SWE/CS—SE，CE—DSC/CS—DS，CS—PL，CS—IS，SE—CMP，SE—FND，SE—MAA，SE—VAV，SE—QUA.
